@@ -4,14 +4,14 @@ class script(object):
 😇 ᴍʏ ɴᴀᴍᴇ ɪs  {bot}.
 ɪ ᴄᴀɴ ᴘʀᴏᴠɪᴇᴅ ᴍᴏᴠɪᴇs & ᴡᴇʙsᴇʀɪᴇs & ᴄᴀʀᴛᴏᴏɴᴇs, ᴊᴜsᴛ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴍᴀᴋᴇ ᴍᴇ ᴀᴅᴍɪɴ... 🔥
 
-❤️ᴊᴏɪɴ ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ  : @Tr_LinksZz ❤️</b>"""
+❤️ᴊᴏɪɴ ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ  : @HW_NEW ❤️</b>"""
     
     HELP_TXT = "ʜᴇʏ {}\nʜᴇʀᴇ ᴍs ᴍʏ ʜᴇʟᴘ"
 
-    ABOUT_TXT = """<b>✯ ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/Tr_ProAutoFilter_Bot>𝚃𝚁 𝙿𝚁𝙾 𝙰𝚄𝚃𝙾𝙵𝙸𝙻𝚃𝙴𝚁 𝙱𝙾𝚃</a>
+    ABOUT_TXT = """<b>✯ ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/Pro_Fserach_bot>𝚃𝚁 𝙿𝚁𝙾 𝙰𝚄𝚃𝙾𝙵𝙸𝙻𝚃𝙴𝚁 𝙱𝙾𝚃</a>
 ✯ ᴏᴡɴᴇʀ : <a href=https://t.me/Tr_LinksZz_Admin_Chat_bot>👑 𝖑𝖔𝖌𝖆𝖓𝖆𝖙𝖍𝖆𝖓 👑</a>
 ✯ ᴍʏ ʙᴇsᴛ ғʀɪᴇɴᴅ : <a href=tg://settings>ᴛʜɪs ᴘᴇʀsᴏɴ</a>
-✯ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/Tr_LinksZz_Admin_Chat_bot>👑 𝖑𝖔𝖌𝖆𝖓𝖆𝖙𝖍𝖆𝖓 👑</a>
+✯ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/Cutozkit>👑 𝖑𝖔𝖌𝖆𝖓𝖆𝖙𝖍𝖆𝖓 👑</a>
 ✯ ʟɪʙʀᴀʀʏ : <a href=https://docs.pyrogram.org/>ᴘʀᴏɢʀᴀᴍ</a>
 ✯ ʟᴀɴɢᴜᴀɢᴇ : <a href=https://www.python.org/download/releases/3.0/>ᴘʏᴛʜᴏɴ 3</a>
 ✯ ᴍʏ ᴅᴀᴛᴀʙᴀsᴇ : <a href=https://www.mongodb.com/>ᴍᴏɴɢᴏ ᴅʙ</a>
@@ -20,9 +20,9 @@ class script(object):
    
     SOURCE_TXT = """<b>🗒️ ɴᴏᴛᴇs :
     
-➠ ᴘʀᴏᴊᴇᴄᴛ ᴘʀᴏᴠᴇᴅᴇʀ : <a href=https://t.me/Tr_LinksZz>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
+➠ ᴘʀᴏᴊᴇᴄᴛ ᴘʀᴏᴠᴇᴅᴇʀ : <a href=https://t.me/Mkvtvseries>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
 
-➠ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : <a href=https://t.me/Discussion_tr_links>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
+➠ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : <a href=https://t.me/AnimePlexEN>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
 
 ➠ sᴏᴜʀᴄᴇ - ᴄʟɪᴄᴋ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʙᴜᴛᴛᴏɴ</b>"""
 
@@ -233,8 +233,8 @@ Fʀᴇᴇ Dɪꜱᴋ: {}"""
 ☀️ ʟᴀɴɢᴜᴀɢᴇs : <code>{languages}</code>
 📀 ʀᴜɴᴛɪᴍᴇ : {runtime} ᴍɪɴᴜᴛᴇs
 📆 ʀᴇʟᴇᴀsᴇᴅ ɪɴғᴏ : {release_date}
-📥 ᴜᴘʟᴏᴀᴅɪɴɢ : @Tr_LinksZz
-🗣️ ᴅɪsᴄᴜssɪᴏɴ : @Discussion_tr_links
+📥 ᴜᴘʟᴏᴀᴅɪɴɢ : @HW_NEW
+🗣️ ᴅɪsᴄᴜssɪᴏɴ : @Mkvtvseries 
 
 🍀 ʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ 🍀 : {message.from_user.mention}
 
